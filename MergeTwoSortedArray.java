@@ -9,7 +9,7 @@ public class MergeTwoSortedArray {
 		
 		for(int i=0;i<c.length;i++)
 		{
-			if(i<4)
+			if(i<b.length)
 			{
 				c[i]=b[i];
 			}
